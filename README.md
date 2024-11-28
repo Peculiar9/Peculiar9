@@ -18,7 +18,7 @@
 - 📫 How to reach me: If you take a few scrolls down, there are a lot of ways to reach me there...
 - 😄 Pronouns: Zhey, cos I can never be him...
 - ⚡ Fun fact about me: My name is actually Peculiar, and I am also one of a triplet, Larry the bird is based on the mountain bluebird, yeah the Twitter bird...of blessed memory
-- 😿 My Catch-phrase: Bulaba, Bala blu, vroom. [Send me a message to find out the meaning, and contribute to my open-source to get your cool catch-phrase]
+- 😿 My Catch-phrase: ee go be!!!
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peculiar9" alt="peculiar9" /></a> </p>
