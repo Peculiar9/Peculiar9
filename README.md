@@ -1,65 +1,98 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://peculiarbabalola.netlify.app)
+<h1 align="center">Peculiar Babalola</h1>
+<h3 align="center">The Engineer & Architect | Distributed Systems & Developer Tooling</h3>
 
-<h1 align="center">Hi 👋, I'm Peculiar</h1>
-<h3 align="center">A passionate Worldclass Software Engineer</h3>
-<img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+---
 
+## 🏆 Featured Project: Arch-Code
+
+**I believe the best engineers build tools that create leverage for others. Arch-Code is my answer to a core frustration in our industry: system diagramming is slow, manual, and disconnected from our code.**
+
+Arch-Code is a high-velocity, open-source tool that treats system architecture as what it should be: **code**.
 
 <br/>
-<br/>
-<br/>
 
-
-### Here are some Nice things to know
-- 🔭 I currently spend most of my time working on backend services...
-- 👯 Most of the time it is on enterprise large-scale backend services ...
-- 🤔 I am an enthusiast with AR and XR, there are not so many AR, and VR developers in Nigeria that I know of...
-- 💬 Ask me about C# dotnet, ASP.NET Core, MySQL, Javascript/Typescript, Node Express MongoDB, PostGresSQL Cloud Native Applications, and relationship advice. for techies (moon-face emoji)...
-- 📫 How to reach me: If you take a few scrolls down, there are a lot of ways to reach me there...
-- 😄 Pronouns: Zhey, cos I can never be him...
-- ⚡ Fun fact about me: My name is actually Peculiar, and I am also one of a triplet, Larry the bird is based on the mountain bluebird, yeah the Twitter bird...of blessed memory
-- 😿 My Catch-phrase: ee go be!!!
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peculiar9" alt="peculiar9" /></a> </p>
-
-<h3 align="left">Let's connect:</h3>
-<p align="left">
-<a href="https://codepen.io/peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="peculiar" height="30" width="40" /></a>
-<a href="https://dev.to/peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="peculiar" height="30" width="40" /></a>
-<a href="https://twitter.com/peculiar12th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peculiar12th" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peculiar-babalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peculiar-babalola" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/peculiar-peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="peculiar-peculiar" height="30" width="40" /></a>
-<a href="https://fb.com/peculiarbabalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peculiar babalola" height="30" width="40" /></a>
-<a href="https://instagram.com/peculiarbabalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peculiarbabalola" height="30" width="40" /></a>
-<a href="https://dribbble.com/peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="peculiar" height="30" width="40" /></a>
-<a href="https://hashnode.com/peculiar babalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="peculiar babalola" height="30" width="40" /></a>
-<a href="https://medium.com/peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="peculiar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/peculiarbabalola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="peculiarbabalola" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/peculiar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peculiar9" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/peculiar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="peculiar9" height="30" width="40" /></a>
-<a href="https://discord.gg/peculiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="peculiar" height="30" width="40" /></a>
+<p align="center">
+  <a href="[LINK_TO_YOUR_LIVE_DEMO_URL]" target="_blank">
+    <img src="[LINK_TO_A_HIGH_QUALITY_ANIMATED_GIF_DEMO]" alt="Arch-Code Live Demo GIF"/>
+  </a>
+  <br/>
+  <em>Define services, databases, and relationships in a simple DSL; see it render in real-time.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="[LINK_TO_YOUR_LIVE_DEMO_URL]" target="_blank">
+    <strong>🚀 View the Live Demo</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="[LINK_TO_THE_GITHUB_REPO]" target="_blank">
+    <strong>📄 View the Source Code</strong>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peculiar9&show_icons=true&locale=en&layout=compact" alt="peculiar9" /></p>
+By defining architecture with a simple, declarative syntax, Arch-Code enables engineers to version, collaborate on, and automate system diagrams, integrating them directly into the modern development lifecycle.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peculiar9&" alt="peculiar9" /></p>
+### Key Technical Features
+* **✍️ Intuitive, Declarative DSL:** A clean, YAML-based syntax designed for readability and speed.
+* **⚡ Real-Time Rendering Engine:** A performant engine built with **TypeScript** and **SvelteKit** that instantly renders diagrams as you type.
+* **🔄 Git-Native Collaboration:** Enables architectural reviews within pull requests, treating diagrams just like any other piece of code.
+* **🧩 Extensible Component Library:** Ships with icons for AWS, GCP, Azure, and Kubernetes.
 
+---
 
-<!--
-**Peculiar9/Peculiar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Portfolio: Selected Works & Achievements
 
-Here are some ideas to get you started:
+Beyond my current focus on developer tooling, my work has spanned cloud infrastructure, FinTech, backend heavy, and full-stack application development. This is a showcase of problems I've solved and value I've delivered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Highlights & Impact Metrics
+
+* **FinTech Performance Engineering (Lightway Finance):** Led the re-architecture of a cross-border payout system by integrating banking APIs and a pooled wallet system. **Result: Reduced average payout times by 85% and increased user retention by 33%.**
+* **Cloud-Native Architecture (Gr33nwh33lz):** Architected and deployed a scalable microservices backend for an EV tracking platform on AWS, using Docker, EC2, and NginX. The system processes real-time geospatial data and handles secure KYC verification with AWS Rekognition.
+* **Web Performance Optimization (Money Prep):** Drove a migration to Next.js and Vercel's global CDN, overhauling the frontend architecture. **Result: A 77% reduction in Speed Index (10.4s to 2.4s) and a 98% decrease in Total Blocking Time.**
+* **BI & Analytics Tooling (Sterling Currency Exchange):** Developed a real-time BI tool for reporting and transaction analysis. **Result: Contributed to a 10% growth in revenue and reduced SLA response times by 30%.**
+
+### Additional Engineering Projects
+
+| Project                                    | Description                                                                                                                                | Technologies Used                               |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **AI Native DSA Code Visualizer** | (Concept) An educational tool to visualize data structures, using AI to provide contextual explanations and generate novel examples. | AI/LLM Integration, TypeScript, React |
+| **Agentic Accountant** | (Concept) A personal finance tool that acts as an AI agent, providing autonomous insights and predictive budget reports.                     | Python, AI Agents, Data Analysis, Typescript, React, C#, Node Express, PostgreSQL                |
+| **GiftFlex** | A full-stack gift wishlisting and fulfillment marketplace designed so people can show and recieve love more thoughtfully.                               | Typescript, React, Node Express, PostgreSQL                        |
+| **Sprauwt** | Personal tool used to manage budget across all financial profiles, portfolios .                                       | Lovable, Windsurf, Node.js, Express, MongoDB, React             |
+---
+
+### 🛠️ Core Technical Expertise
+
+| Category                  | Technologies                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------------- |
+| **Backend & Systems** | **C#** (.NET Core), **Node.js** (Express, NestJS), **TypeScript**, Microservices, REST APIs |
+| **Databases & Caching** | **PostgreSQL**, MS SQL Server, MySQL, **MongoDB**, Redis                                      |
+| **Cloud & DevOps** | **AWS** (EC2, S3, RDS, SNS, Lambda), **Docker**, Kubernetes, NGINX, CI/CD (GitHub Actions), Vercel |
+| **Frontend** | React/Next.js, SvelteKit, Blazor, HTML/CSS                                            |
+| **Architecture & Core** | System Design, Domain-Specific Language (DSL) Design, Git, Agile, TDD Principles        |
+
+---
+
+### About The Architect
+
+I'm Peculiar, a software engineer obsessed with building tools and systems that create leverage and improve engineering velocity. My expertise lies in architecting scalable backend services and platforms that solve real business problems.
+
+### 🔗 Let's Connect
+
+I'm always open to discussing complex system design, cloud architecture, and career development in tech.
+
+<p align="center">
+  <a href="https://linkedin.com/in/peculiar-babalola" target="_blank">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/peculiar9" target="_blank">GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://dev.to/peculiar" target="_blank">Blog (Dev.to)</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://peculiarbabalola.hasnode.dev" target="_blank">Blog (hasnode.dev)</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.peculiarbabalola.xyz" target="_blank">Website</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:peculiarbabalola@gmail.com">Email</a>
+</p>
+
+### 🛠️ Github Shenanigans and Metrics for the Culture
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peculiar9&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peculiar9&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
