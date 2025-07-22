@@ -12,7 +12,7 @@ Arch-Code is a high-velocity, open-source tool that treats system architecture a
 <br/>
 
 <p align="center">
-  <a href="[[LINK_TO_YOUR_LIVE_DEMO_URL](https://archify-code-draw.vercel.app/)]" target="_blank">
+  <a href="https://archify-code-draw.vercel.app/" target="_blank">
     <img src="[LINK_TO_A_HIGH_QUALITY_ANIMATED_GIF_DEMO]" alt="Arch-Code Live Demo GIF"/>
   </a>
   <br/>
