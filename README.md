@@ -1,43 +1,4 @@
-<h1 align="center">Peculiar Babalola</h1>
-<h3 align="center">The Engineer & Architect | Distributed Systems & Developer Tooling</h3>
 
----
-
-## 🏆 Featured Project: Arch-Code
-
-**I believe the best engineers build tools that create leverage for others. Arch-Code is my answer to a core frustration in our industry: system diagramming is slow, manual, and disconnected from our code.**
-
-Arch-Code is a high-velocity, open-source tool that treats system architecture as what it should be: **code**.
-
-<br/>
-
-<p align="center">
-  <a href="https://archify-code-draw.vercel.app/" target="_blank">
-    <img src="[LINK_TO_A_HIGH_QUALITY_ANIMATED_GIF_DEMO]" alt="Arch-Code Live Demo GIF"/>
-  </a>
-  <br/>
-  <em>Define services, databases, and relationships in a simple DSL; see it render in real-time.</em>
-</p>
-
-<p align="center">
-  <a href="https://archify-code-draw.vercel.app/" target="_blank">
-    <strong>🚀 View the Live Demo</strong>
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="[LINK_TO_THE_GITHUB_REPO]" target="_blank">
-    <strong>📄 View the Source Code</strong>
-  </a>
-</p>
-
-By defining architecture with a simple, declarative syntax, Arch-Code enables engineers to version, collaborate on, and automate system diagrams, integrating them directly into the modern development lifecycle.
-
-### Key Technical Features
-* **✍️ Intuitive, Declarative DSL:** A clean, YAML-based syntax designed for readability and speed.
-* **⚡ Real-Time Rendering Engine:** A performant engine built with **TypeScript** and **SvelteKit** that instantly renders diagrams as you type.
-* **🔄 Git-Native Collaboration:** Enables architectural reviews within pull requests, treating diagrams just like any other piece of code.
-* **🧩 Extensible Component Library:** Ships with icons for AWS, GCP, Azure, and Kubernetes.
-
----
 
 ## 🚀 Portfolio: Selected Works & Achievements
 
