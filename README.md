@@ -18,7 +18,7 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 | **AI Native DSA Code Visualizer** | (Concept) An educational tool to visualize data structures, using AI to provide contextual explanations and generate novel examples. | AI/LLM Integration, TypeScript, React |
 | **Agentic Accountant** | (Concept) A personal finance tool that acts as an AI agent, providing autonomous insights and predictive budget reports.                     | Python, AI Agents, Data Analysis, Typescript, React, C#, Node Express, PostgreSQL                |
 | **GiftFlex** | A full-stack gift wishlisting and fulfillment marketplace designed so people can show and recieve love more thoughtfully.                               | Typescript, React, Node Express, PostgreSQL                        |
-| **Sprauwt** | Personal tool used to manage budget across all financial profiles, portfolios .                                       | Lovable, Windsurf, Node.js, Express, MongoDB, React             |
+| **Sprauwt** | Personal tool used to manage budget across all financial profiles, portfolios .                                       | Lovable, Windsurf, Node.js, Express, PostgreSQL, React             |
 ---
 
 ### 🛠️ Core Technical Expertise
