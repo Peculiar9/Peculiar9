@@ -28,6 +28,10 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 * **peculiar-orm** → `github.com/peculiar/peculiar-orm`
 * **node_be_v2** → `github.com/peculiar/node_be_v2`
 
+**Packages**
+
+* **peculiar-orm** `https://www.npmjs.com/package/peculiar-orm`
+
 ### 🛠️ Core Technical Expertise
 
 | Category                  | Technologies                                                                          |
