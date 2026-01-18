@@ -2,7 +2,7 @@
 
 ## 🚀 Portfolio: Selected Works & Achievements
 
-Beyond my current focus on developer tooling, my work has spanned cloud infrastructure, FinTech, backend heavy, and full-stack application development. This is a showcase of problems I've solved and value I've delivered.
+Beyond my current focus on developer tooling, my work has spanned cloud infrastructure, FinTech, backend-heavy, and full-stack application development. This is a showcase of problems I've solved and value I've delivered.
 
 ### Professional Highlights & Impact Metrics
 
@@ -36,8 +36,8 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 
 | Category                  | Technologies                                                                          |
 | ------------------------- | ------------------------------------------------------------------------------------- |
-| **Backend & Systems** | **C#** (.NET Core), **Node.js** (Express, NestJS), **TypeScript**, Microservices, REST APIs |
-| **Databases & Caching** | **PostgreSQL**, MS SQL Server, MySQL, **MongoDB**, Redis                                      |
+| **Backend & Systems** | **C#** (.NET Core), **Node.js** (Express, NestJS), **TypeScript**, **Java**, Springboot, Microservices, REST APIs |
+| **Databases & Caching** | **PostgreSQL**, MS SQL Server, MySQL, **MongoDB**, Cassandra Redis                                      |
 | **Cloud & DevOps** | **AWS** (EC2, S3, RDS, SNS, Lambda), **Docker**, Kubernetes, NGINX, CI/CD (GitHub Actions), Vercel |
 | **Frontend** | React/Next.js, SvelteKit, Blazor, HTML/CSS                                            |
 | **Architecture & Core** | System Design, Domain-Specific Language (DSL) Design, Git, Agile, TDD Principles        |
