@@ -57,7 +57,7 @@ I'm always open to discussing complex system design, cloud architecture, and car
   <a href="https://github.com/peculiar9" target="_blank">GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://dev.to/peculiar" target="_blank">Blog (Dev.to)</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://peculiarbabalola.hasnode.dev" target="_blank">Blog (hasnode.dev)</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.peculiarbabalola.xyz" target="_blank">Website</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.peculiarbabalola.com" target="_blank">Website</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:peculiarbabalola@gmail.com">Email</a>
 </p>
 
