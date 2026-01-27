@@ -33,6 +33,7 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 **Packages**
 
 * **peculiar-orm** `https://www.npmjs.com/package/peculiar-orm`
+* **hono-injector** `https://www.npmjs.com/package/hono-injector`
 
 ### 🛠️ Core Technical Expertise
 
