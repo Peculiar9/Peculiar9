@@ -13,7 +13,7 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 
 | Project                | Description                                                                                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Peculiar ORM**       | A lightweight, transparent, and resilient PostgreSQL ORM built with TypeScript. Designed for microservices with explicit transaction control, repository pattern, rich object mapping, and zero-surprise migrations. |
+| **Peculiar ORM**       | A lightweight TypeScript ORM for PostgreSQL offering graceful pg reconnection, query timeouts, deep observability, explicit transactions, clean repository & mapping patterns, predictable migrations, and native Inversify DI... all with zero unnecessary abstraction. |
 | **Node_be_v2**         | A production-ready Node.js backend starter template engineered around clean architecture and scalability. Ships with opinionated project structure, dependency injection, and production-focused defaults. |
 | **be_v1**              | A high-performance replica of node_be_v2 written on Bun and Hono. Designed for low-latency backends with a small memory footprint and faster cold-starts. Uses decorator-based routing built on top of the companion package **hono-injector**. |
 | **hono-injector**      | A Decorator-based routing and dependency injection library for Hono, heavily inspired by inversify-express-utils. Enables controller decorators, injectable services, and clean DI patterns for Hono apps. |
