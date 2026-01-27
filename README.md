@@ -25,10 +25,10 @@ Beyond my current focus on developer tooling, my work has spanned cloud infrastr
 
 **Repositories**
 
-* **peculiar-orm** → `github.com/peculiar/peculiar-orm`
-* **node_be_v2** → `github.com/peculiar/node_be_v2`
-* **be_v1** → `github.com/peculiar/be_v1`
-* **hono-injector** → `github.com/peculiar/hono-injector`
+* **peculiar-orm** → `github.com/peculiar9/peculiar-orm`
+* **node_be_v2** → `github.com/peculiar9/node_be_v2`
+* **be_v1** → `github.com/peculiar9/be_v1`
+* **hono-injector** → `github.com/peculiar9/hono-injector`
 
 **Packages**
 
